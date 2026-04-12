@@ -2,7 +2,7 @@
   "version": 1,
   "keymap": [
     {
-      "name": "default_layer",
+      "name": "Default layer",
       "layers": [
         [
           "ESC", "Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P", "BSPC",
@@ -13,7 +13,7 @@
       ]
     },
     {
-      "name": "right",
+      "name": "Right layer (layer 1)",
       "layers": [
         [
           "LS(GRAVE)", "LS(N1)", "LS(N2)", "LS(N3)", "LS(N4)", "LS(N5)", "LS(N6)", "LS(N7)", "LS(N8)", "LS(N9)", "LS(N0)", "DEL",
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "name": "left",
+      "name": "Left layer (layer 2)",
       "layers": [
         [
           "GRAVE", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N0", "BSPC",
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "name": "control",
+      "name": "Control layer (layer 3)",
       "layers": [
         [
           "sys_reset", "bootloader", "BT_CLR", "BT_PRV", "BT_NXT", "trans", "trans", "trans", "trans", "trans", "trans", "trans",
